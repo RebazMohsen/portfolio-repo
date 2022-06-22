@@ -1,15 +1,1 @@
-# rebaz Mohsen
-
-# rebaz Mohsen
-
-# rebaz Mohsen
-
-# rebaz Mohsen
-
-# rebaz Mohsen
-
-# rebaz Mohsen
-
-# rebaz Mohsen
-
-# rebaz Mohsen
+# my first repository
