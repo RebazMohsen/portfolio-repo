@@ -1,3 +1,31 @@
-svg:hover {
-  fill: rgb(255, 129, 129);
+#html {
+  background-color: #f39237;
+}
+
+#html #bar {
+  background-color: #7c6148;
+}
+
+#css {
+  background-color: #1c77c3;
+}
+
+#css #bar {
+  background-color: #4c769713;
+}
+
+#javascript {
+  background-color: yellow;
+}
+
+#javascript #bar {
+  background-color: rgb(141, 204, 83);
+}
+
+#react {
+  background-color: #61dbfb;
+}
+
+#react #bar {
+  background-color: #569cad;
 }
